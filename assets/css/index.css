@@ -838,3 +838,8 @@ input[type="checkbox"]:checked~#content {
   text-decoration: underline !important;
   margin-top: 20px;
 }
+
+#content{
+  padding-left: 0px;
+  padding-right: 0px;
+}
